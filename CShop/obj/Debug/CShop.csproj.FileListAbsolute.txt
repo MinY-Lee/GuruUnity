@@ -5,3 +5,10 @@ C:\Users\MinY\source\repos\유니티\CShop\obj\Debug\CShop.csprojAssemblyReferen
 C:\Users\MinY\source\repos\유니티\CShop\obj\Debug\CShop.csproj.CoreCompileInputs.cache
 C:\Users\MinY\source\repos\유니티\CShop\obj\Debug\CShop.exe
 C:\Users\MinY\source\repos\유니티\CShop\obj\Debug\CShop.pdb
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\bin\Debug\CShop.exe.config
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\bin\Debug\CShop.exe
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\bin\Debug\CShop.pdb
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\obj\Debug\CShop.csprojAssemblyReference.cache
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\obj\Debug\CShop.csproj.CoreCompileInputs.cache
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\obj\Debug\CShop.exe
+C:\Users\MinY\Desktop\GitHub\GuruUnity\CShop\obj\Debug\CShop.pdb
