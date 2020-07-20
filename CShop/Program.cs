@@ -148,6 +148,17 @@ namespace CShop
                     Console.WriteLine("무승부입니다.");
             }
 
+            // 복사=짝퉁, 참조=진통(ref 사용) 
+
+            // 연습문제-구구단
+            for(int num1=2;num1<=9;num1++)
+            {
+                for(int num2=1;num2<=9;num2++)
+                {
+                    Console.WriteLine($"{num1}*{num2} = {num1*num2}");
+                }
+            }
+
         }
     }
 }

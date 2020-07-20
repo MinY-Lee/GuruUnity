@@ -1,0 +1,7 @@
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\obj\Debug\TextRPG.csprojAssemblyReference.cache
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\MinY\Desktop\GitHub\GuruUnity\TextRPG\obj\Debug\TextRPG.pdb
